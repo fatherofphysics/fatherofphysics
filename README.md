@@ -34,8 +34,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
----
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -47,7 +45,6 @@
 ➡️ [more videos...](https://youtube.com/channel/UCqwBXAEr8mgt9O9IHNqE5qw/videos)
 
 ---
-
 
 [twitter]: https://twitter.com/vedantkanoujia
 [youtube]: https://www.youtube.com/channel/UCqwBXAEr8mgt9O9IHNqE5qw
