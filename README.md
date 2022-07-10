@@ -2,12 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vedantkanoujia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffatherofphysics&screen_name=vedantkanoujia)
 
-## I'm a Coder, Gamer, Developer, and Medical Student!!
+## I'm a Developer, and Doctor Assistant!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning and improving myself
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Research and play [krunker] or doing experiments
 
 
 ### Connect with me:
