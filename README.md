@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Vedant Kanoujia<br>A passionate Security Researcher from India<br>🔭 I’m currently working on Arch Btw<br>🤝 I’m looking for help with awk & sed | grep "nano"<br>🌱 I’m currently learning Malware Development<br>💬 Ask me about Linux & windows exploits, RAT, worms, Trojan's<br>📫 How to reach me isis_root@proton.me<br>👨‍💻 All of my projects are available at github.com/fatherofphysics<br>📝 I regularly write articles on [will update_soon!]<br>📄 Know about my experiences my_resume_link<br>⚡ Fun fact I think Revolution still needed for dump peoples.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&color=EAF7E7&background=8D541D&vCenter=true&width=450&lines=sudo+rm+-rf+%2F*+--no-preserve-root)](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vedantkanoujia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drvedantkanoujia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantkanoujia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kanoujiavedant) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/fatherofphysics) 
