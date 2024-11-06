@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Vedant Kanoujia<br>A passionate Security Researcher from India<br>🔭 I’m currently working on Arch Btw<br>🤝 I’m looking for help with awk & sed | grep "nano"<br>🌱 I’m currently learning Malware Development<br>💬 Ask me about Linux & windows exploits, RAT, worms, Trojan's<br>📫 How to reach me isis_root@proton.me<br>👨‍💻 All of my projects are available at github.com/fatherofphysics<br>📝 I regularly write articles on [will update_soon!]<br>📄 Know about my experiences my_resume_link<br>⚡ Fun fact I think Revolution still needed for dump peoples.
+Hi 👋, I'm Vedant Kanoujia<br>A passionate Security Researcher from India<br>🔭 I’m currently working on Arch Btw<br>🤝 I’m looking for help with awk & sed | grep "nano"<br>🌱 I’m currently learning Malware Development<br>💬 Ask me about Linux & windows exploits, RAT, worms, Trojan's<br>📫 How to reach me isis_root@proton.me<br>👨‍💻 All of my projects are available at github.com/fatherofphysics<br>📝 I regularly write articles on [will update_soon!]<br>📄 Know about my experiences my_resume_link<br>⚡ Fun fact Always remove the french language pack to get more space in Linux.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&color=EAF7E7&background=8D541D&vCenter=true&width=450&lines=sudo+rm+-rf+%2F*+--no-preserve-root)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&color=EAF7E7&background=8D541D&vCenter=true&width=450&lines=sudo+rm+-fr+%2F*+--no-preserve-root)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
